@@ -1,7 +1,7 @@
-this is the general 128x64 LCD driver on msp430 families mcrocontroler.
+this is the general 128x64 LCD driver on msp430 families microcontroler.
 If you want to use,you have to change somewhere to fit your device.
-the change is about:
-1.your device header file include
+the change is above:
+1.your device header file include.
 2.the MCLK your device use,related with freqency your CPU used.
 3.the IO your left to drive the LCD.
 
